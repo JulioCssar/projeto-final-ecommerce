@@ -21,7 +21,7 @@ function App() {
   return (  //Retorno
     <>
       <div className='topBar'>
-        <img id='logo' src="/assets/logo/logo.png" alt="Logo "/>
+        <img id='logo' src="src/logo/logo.png" alt="Logo m "/>
       </div>
       <div className="container">
         {
