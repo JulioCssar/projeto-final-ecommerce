@@ -21,7 +21,7 @@ function App() {
   return (  //Retorno
     <>
       <div className='topBar'>
-{/*         <img id='logo' src="assets/logo/logo.png" alt="Logo"/> */}
+{/*         <img id='logo' src="assets/logo/logo.png" alt="Logo"/> A logo não carregou no Deploy do Vercel, apenas na minha maquina  */}
       </div>
       <div className="container">
         {
